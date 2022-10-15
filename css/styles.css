@@ -1,0 +1,30 @@
+
+  body{
+    background-color:#C7F2A4;
+  }
+  hr{
+    border-style:dotted none none;
+
+
+    border-color:grey;
+
+  }
+  h1{
+    color:#2192FF;
+  }
+  h3{
+    color:#2192FF;
+  }
+.akitpic{
+  border-radius: 100%;
+}
+.firhr{
+  border-color: red;
+
+}
+.link:hover{
+  color: red;
+}
+.sub:hover{
+  background-color: red;
+}
